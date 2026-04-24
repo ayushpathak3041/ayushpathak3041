@@ -104,7 +104,9 @@ I specialize in **Java development** with a strong focus on **Data Structures & 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-pathak-a231332a1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpathak3041)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
 
 </div>
 
